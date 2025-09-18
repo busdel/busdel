@@ -11,7 +11,6 @@
 - 📊 Experienced in **machine learning & deep learning** (scikit-learn, PyTorch, Keras) for biomarker discovery and precision medicine.  
 - 🧪 Skilled in both **wet-lab** (DNA/RNA extraction, PCR, ELISA, Western Blot, sequencing) and **dry-lab** (QIIME2, HUMAnN3, MaxQuant, DIA-NN) techniques.  
 - 🖥️ Developed pipelines combining **Random Forest, SVM, XGBoost, LassoCV, Bayesian networks** for biological data.  
-- 🌍 Currently applying to **international PhD programs** in computational biology & AI-driven life sciences.  
 
 ---
 
@@ -23,10 +22,10 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, R, SQL, Bash  
+**Languages:** Python, R, Java, SQL, Bash  
 **ML/DL:** scikit-learn, PyTorch, Keras, XGBoost  
 **Bioinformatics:** QIIME2, HUMAnN3, PICRUSt2, phyloseq, Gephi  
-**Data Viz:** matplotlib, ggplot2, seaborn, UpSetR  
+**Data Viz:** matplotlib, ggplot2, seaborn, UpSetR etc.  
 **Other Tools:** Streamlit, Git, Docker  
 
 ---
@@ -39,9 +38,9 @@
 ---
 
 ## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/busranur-delice/)  
-- 📊 [ResearchGate](https://www.researchgate.net/)  
-- 📧 busranur.delice[at]gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/büşranur-d-84a7371a4/)  
+- 📊 [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Buesranur-Delice?ev=hdr_xprf)  
+- 📧 delicebusranur@gmail.com  
 
 ---
 
