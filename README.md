@@ -39,7 +39,7 @@
 
 ## 📫 Connect With Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/büşranur-d-84a7371a4/)  
-- 📊 [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Buesranur-Delice?ev=hdr_xprf)  
+- 📊 [ResearchGate]([https://www.researchgate.net/](https://www.researchgate.net/profile/Buesranur-Delice?ev=hdr_xprf))  
 - 📧 delicebusranur@gmail.com  
 
 ---
