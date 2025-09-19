@@ -7,7 +7,7 @@
 ---
 
 ## 🔬 About Me  
-- 🧠 Specializing in **multi-omics data integration (microbiome, proteomics, metabolomics) with neuroimaging (rs-fMRI)** to study **Parkinson’s Disease and cognitive impairment**.  
+- 🧠 Specializing in **multi data integration with neuroimaging (rs-fMRI)** to study **Parkinson’s Disease and cognitive impairment**.  
 - 📊 Experienced in **machine learning & deep learning** (scikit-learn, PyTorch, Keras) for biomarker discovery and precision medicine.  
 - 🧪 Skilled in both **wet-lab** (DNA/RNA extraction, PCR, ELISA, Western Blot, sequencing) and **dry-lab** (QIIME2, HUMAnN3, MaxQuant, DIA-NN) techniques.  
 - 🖥️ Developed pipelines combining **Random Forest, SVM, XGBoost, LassoCV, Bayesian networks** for biological data.  
