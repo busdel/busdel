@@ -1,47 +1,54 @@
-# 🌟 Hi there, I'm Büşranur Delice 👋  
+# 👋 Hi, I'm Büşranur Delice  
 
-🎓 **MSc in Medical Microbiology** | **BSc in Nutrition and Dietetics (Top of Class)**  
-🧬 **Computational Biology & Bioinformatics Researcher**  
-🤖 **Machine Learning & AI Enthusiast**  
-
----
-
-## 🔬 About Me  
-- 🧠 Specializing in **multi data integration with neuroimaging (rs-fMRI)** to study **Parkinson’s Disease and cognitive impairment**.  
-- 📊 Experienced in **machine learning & deep learning** (scikit-learn, PyTorch, Keras) for biomarker discovery and precision medicine.  
-- 🧪 Skilled in both **wet-lab** (DNA/RNA extraction, PCR, ELISA, Western Blot, sequencing) and **dry-lab** (QIIME2, HUMAnN3, MaxQuant, DIA-NN) techniques.  
-- 🖥️ Developed pipelines combining **Random Forest, SVM, XGBoost, LassoCV, Bayesian networks** for biological data.  
+### 🧬 Computational Biology & Metagenomics Researcher  
+📍 Currently integrating **microbiome + neuroimaging** + machine learning to understand Parkinson's Disease and metabolic disorders.
 
 ---
 
-## 🚀 Projects & Publications  
-- 🧬 **Parkinson’s Disease multi-omics + neuroimaging integration** → Machine learning model achieved **AUC ~0.97**.  
-- 🦎 **Axolotl limb regeneration study** → Microbiome & mycobiome restructuring with stage-specific dynamics (*Wound Repair & Regeneration*).  
-- ❤️ **HeartHelper** → AI-powered assistant for cardiovascular patients, developed at **Google AI & Technology Academy**.  
+## 🔬 Research Focus
+- 🧠 Microbiome → host phenotype modeling (Parkinson’s disease, cognition, metabolism)
+- 🧬 **Metagenomics (16S / ITS / shotgun)**: preprocessing → functional profiling → interpretation  
+- 🤖 **Machine learning pipelines** for biomarker discovery (scikit-learn, PyTorch, Keras)
+- 🔗 Multi-omics integration (rs-fMRI + microbiome, longitudinal microbiome datasets)
 
 ---
 
-## 🛠️ Tech Stack  
-**Languages:** Python, R, Java, SQL, Bash  
-**ML/DL:** scikit-learn, PyTorch, Keras, XGBoost  
-**Bioinformatics:** QIIME2, HUMAnN3, PICRUSt2, phyloseq, Gephi  
-**Data Viz:** matplotlib, ggplot2, seaborn, UpSetR etc.  
-**Other Tools:** Streamlit, Git, Docker  
+## 🛠 Tech Stack
+
+**Metagenomics & Bioinformatics**
+`QIIME2` • `MetaPhlAn` • `HUMAnN` • `MintTea` • `MOFA2` • `PICRUSt2` • `phyloseq` • `Gephi` • `Cytoscape`
+
+**Machine Learning / Deep Learning**
+`scikit-learn` • `PyTorch` • `Keras` • `XGBoost` • `SVM` • `Bayesian Networks`
+
+**Programming**
+`Python` • `R` • `Bash` • `SQL` • `Git` • `Docker`
 
 ---
 
-## 🌱 Current Focus  
-- Designing custom **data integration algorithms** for multi-omics and neuroimaging.  
-- Exploring **causal inference** and **AI in healthcare**.  
-- Building **open-source pipelines** for reproducible biology research.  
+## 🚀 Selected Projects (with code)
+| Project | Description | Status |
+|--------|-------------|--------|
+| 🧠 **PD-microbiome + rs-fMRI integration** | ML workflow to predict cognitive impairment in Parkinson’s | Finalizing manuscript |
+| 🦎 **Axolotl limb regeneration (16S+ITS)** | Network analysis & stage-specific microbiome shifts | Published (Wound Repair & Regeneration) |
+| 🍽 **Prediabetes longitudinal microbiome** | Time-series modeling using MetaPhlAn & HUMAnN | Manuscript in prep |
+| ❤️ **HeartHelper (Google AI Academy)** | Streamlit + FAISS + Gemini-powered digital health assistant | Live demo soon |
+
+➡️ Repos will be uploaded gradually with reproducible notebooks & documentation.
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/büşranur-d-84a7371a4/)  
-- 📊 [ResearchGate](https://www.researchgate.net/profile/Buesranur-Delice/)  
-- 📧 delicebusranur@gmail.com  
+## 🌟 Looking to collaborate on
+- Metagenomics / microbiome bioinformatics
+- Multi-omics integration (imaging, metabolomics, clinical metadata)
+- ML for biomarker discovery or precision medicine
 
 ---
 
-✨ *"Bridging biology and artificial intelligence to uncover new biomarkers and therapies."*  
+## 📫 Contact
+📧 **delicebusranur@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/büşranur-d-84a7371a4/) | 🔬 [ResearchGate](https://www.researchgate.net/profile/Buesranur-Delice)
+
+---
+
+> ✨ “I turn biological complexity into interpretable models.”
