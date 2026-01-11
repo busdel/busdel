@@ -47,7 +47,7 @@
 
 ## 📫 Contact
 📧 **delicebusranur@gmail.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/büşranur-d-84a7371a4/) | 🔬 [ResearchGate](https://www.researchgate.net/profile/Buesranur-Delice)
+🔗 [LinkedIn](https://www.linkedin.com/in/busranur-d-84a7371a4/) | 🔬 [ResearchGate](https://www.researchgate.net/profile/Buesranur-Delice)
 
 ---
 
